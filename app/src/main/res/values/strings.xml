@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mad microproject</string>
+    <string name="flights_information">Flights Information</string>
+    <string name="flights_scrollview">Flights Information Scroll View</string>
+    <string name="add_button_description">Add Data</string>
+
+</resources>
